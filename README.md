@@ -4,4 +4,4 @@
 
 #####
 - This is just a simple backend server
-- Its useless
+- Its useless only for learning purposes
